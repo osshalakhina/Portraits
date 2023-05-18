@@ -1,6 +1,6 @@
 # Portraits
 
-Digital portraits. Made in Adobe Photoshop.
+Digital portraits created in Adobe Photoshop.
 
 # Preview
 
